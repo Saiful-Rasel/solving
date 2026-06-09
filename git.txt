@@ -1,0 +1,34 @@
+ 1992  ls
+ 1993  ls -l
+ 1994  mv socket.txt newname.txt
+ 1995  mv newname.txt
+ 1996  mv newname.txt linux_example.txt
+ 1997  ls
+ 1998  ls -l
+ 1999  ls
+ 2000  rm index.ts
+ 2001  git init
+ 2002  ls 
+ 2003  dir
+ 2004  git status
+ 2005  git init
+ 2006  git status
+ 2007  git add .
+ 2008  git status
+ 2009  git rm --cached devops
+ 2010  git rm --cached devops.py
+ 2011  git status
+ 2012  git add .
+ 2013  git status
+ 2014  git commit -m "added "
+ 2015  git status
+ 2016  rm -devops.py
+ 2017  rm devops.py
+ 2018  git status
+ 2019  git restore devops.py
+ 2020  git status
+ 2021  rm devops.py
+ 2022  git status
+ 2023  git restore devops.py
+ 2024  git history
+ 2025  history
